@@ -1,0 +1,11 @@
+.wrapper {
+  text-align: right;
+}
+.wrapper1 {
+  text-align: left;
+}
+
+.button {
+  position: absolute;
+  top: 50%;
+}
